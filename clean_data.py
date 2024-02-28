@@ -2,7 +2,8 @@
 
 import pandas as pd
 
- 
+  
+  
 
 def load_data(input_file):
     """Lea el archivo usando pandas y devuelva un DataFrame"""
